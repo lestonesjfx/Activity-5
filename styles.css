@@ -8,88 +8,73 @@ header {
 
 }
 
+.container-fluid {
+  background-color: rgba(42, 221, 117, 0.616);
+
+}
+
+.navbar-brand {
+  background-color: rgba(42, 221, 117, 0.616);
+
+}
+
+a:hover {
+  color: yellow;
+}
+
 .carousel-item {
-  height: 600px;
+  height: 700px;
 
 }
 
-a {
-  text-decoration: none;
-  padding: 10px 10px;
-
-}
-
-h1 {
+.heading {
   background-color: rgba(42, 221, 117, 0.616);
   text-align: center;
   font-size: xx-large;
   padding: 30px 40px;
   font-weight: 600px;
+  letter-spacing: 20px;
   
 }
 
-p {
-  text-align: center;
-  
-}
-
-#main {
-  display: grid;
-
-}
-
-.card-img-top1 {
+.card-img-top {
   height: 250px;
   width: 0 auto;
+  padding: 20px 20px;
   
 }
 
-.card-img-top2 {
-  height: 250px;
-  width: 0 auto;
-  
+.container-md {
+  padding: 20px 20px;
 }
 
-.card-img-top3 {
-  height: 250px;
-  width: 0 auto;
-  
-}
-
-.card-img-top4 {
-  height: 250px;
-  width: 0 auto;
-  
-}
-
-.container1- {
-  margin: 20px 20px;
-  padding: 40px 40px;
-
-}
-
-#photo1 {
-  height: 300px;
-  width: 500px;
-
-}
-
-.content {
-  text-align: justify;
-  padding: 80px 20px;
-
-}
-
-.footer{
+.footer {
   text-align: center;
   background-color: rgba(42, 221, 117, 0.616);
-  width: 100%;
+  width: 0 auto;
   margin: 0 auto;
+  padding: 20px 20px;
 
 }
 
 h5 {
   font-weight: 600;
+
 }
 
+#align1 {
+  padding-top: 150px;
+
+}
+
+#align2 {
+  padding-top: 150px;
+  
+}
+
+#align3 {
+  padding-top: 150px;
+  
+}
+ 
 
